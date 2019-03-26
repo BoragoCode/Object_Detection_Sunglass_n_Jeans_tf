@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>new_00000386.jpg</filename>
+	<path>C:\Users\amit.gupta9\Projects\Fashion_Recommendation\google_downloads\new\new_00000386.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>614</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>105</ymin>
+			<xmax>311</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

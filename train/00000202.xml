@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00000202.jpg</filename>
+	<path>C:\Users\amit.gupta9\Projects\Fashion_Recommendation\Custom_Training_TF\two_classes\train\00000202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>561</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>330</ymin>
+			<xmax>384</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>
